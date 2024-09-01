@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.onemount</groupId>
-  <artifactId>ControlFlowNew</artifactId>
+  <artifactId>ControlFlow</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 

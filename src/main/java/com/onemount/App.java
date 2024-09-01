@@ -94,7 +94,7 @@ public static void main( String[] args )
 
     public static long reverseNumber(long number) {
     long result = 0;
-    int digit = 0;
+    int digit;
     while (number != 0) {
         digit = (int) (number%10);
         result = result * 10 + digit;
