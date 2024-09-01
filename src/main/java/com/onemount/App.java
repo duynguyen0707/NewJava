@@ -86,7 +86,7 @@ public static void main( String[] args )
 
 }
 
-//    Tìmvàinlênmànhìnhtấtcảcácsốnguyêntrong phạmvitừ10đến99saochotíchcủa2chữsố bằng2lầntổngcủa2chữsốđó
+
 
     public static
 
