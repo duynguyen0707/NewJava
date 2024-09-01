@@ -88,7 +88,7 @@ public static void main( String[] args )
 
 
 
-    public static
+
 
 // Nhap vao 1 so nguyen duong, xuat ra so dao nguoc
 
